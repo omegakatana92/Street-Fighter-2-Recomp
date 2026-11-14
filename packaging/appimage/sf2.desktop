@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Street Fighter II (native port)
+Comment=The World Warrior, Champion Edition and Hyper Fighting; requires your own MAME ROM sets
+Exec=sf2
+Icon=sf2
+Categories=Game;ArcadeGame;
+Terminal=false

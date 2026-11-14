@@ -1,0 +1,31 @@
+{
+  "id": "sf2_hyper_fighting",
+  "title": "Hyper Fighting",
+  "subtitle": "Street Fighter II': Hyper Fighting (World 921209)",
+  "manufacturer": "Capcom",
+  "year": 1992,
+  "rom_hint": "sf2hf.zip",
+  "mame_set": "sf2hf",
+  "players": 2,
+  "display": {
+    "aspect": "4:3",
+    "rotation": 0,
+    "integer_scale": false
+  },
+  "controls": {
+    "layout": "6-button: punches top row (light, medium, heavy), kicks bottom row"
+  },
+  "features": {
+    "save_states": true,
+    "rewind": true,
+    "nvram": false,
+    "input_movies": true,
+    "gadgets": true,
+    "input_display": true,
+    "screenshots": true,
+    "widescreen": false
+  },
+  "theme": {
+    "accent": "Violet"
+  }
+}
